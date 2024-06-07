@@ -51,9 +51,9 @@ const Projects = () => {
       imageAlt: "Musicsound",
       title: "Musicsound",
       description:
-        "A web application that show a basic information of a assistant accountant.",
-      viewLink: "http://www.mariarodme.com/",
-      githubLink: "https://github.com/Anarodme/mariarodme",
+        "A web application for music playback and online podcast transmissions.",
+      viewLink: "https://github.com/Anarodme/musicsound",
+      githubLink: "https://github.com/Anarodme/musicsound",
     },
   ];
 
