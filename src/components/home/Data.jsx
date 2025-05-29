@@ -4,9 +4,9 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Ana Rodríguez</h1>
-      <h3 className="home__subtitle">Fullstack Developer</h3>
+      <h3 className="home__subtitle">Full Stack Developer - Software Engineer</h3>
       <p className="home__description">
-        Experienced IT Engineer specializing in Frontend and backend.
+      Dynamic and detail-oriented Full Stack Developer and Information Technology Engineer.
       </p>
 
       <a href="#contact" className="button button--flex">
